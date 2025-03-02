@@ -1,3 +1,6 @@
 [submodule "TheWanderLust-Frontend"]
 	path = TheWanderLust-Frontend
 	url = https://github.com/PrabhatPadhiary/TheWanderLust-Frontend.git
+[submodule "TheWanderLust-Backend"]
+	path = TheWanderLust-Backend
+	url = https://github.com/PrabhatPadhiary/TheWanderLust-Backend.git
