@@ -1,0 +1,3 @@
+[submodule "TheWanderLust-Frontend"]
+	path = TheWanderLust-Frontend
+	url = https://github.com/PrabhatPadhiary/TheWanderLust-Frontend.git
